@@ -19,7 +19,7 @@
     bool mutedLockscreen;
     bool mutedHomescreen;
     bool syncRingerVolume;
-    bool disableOnLPM;
+    bool disabledOnLPM;
     bool hideHomescreen;
 }
 
